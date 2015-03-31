@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<robot name="sef_roboter_sr25" xmlns:xacro="http://ros.org/wiki/xacro">
+	<xacro:include filename="$(find sef_roboter_support)/urdf/sr25_macro.xacro" />
+	<xacro:sef_roboter_sr25 prefix=""/>
+</robot>
