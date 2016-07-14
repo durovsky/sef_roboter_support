@@ -22,5 +22,5 @@
     name="rviz"
     pkg="rviz"
     type="rviz"
-    args="-d $(find sef_roboter)/config/sef_roboter.rviz" />
+    args="-d $(find sef_roboter_support)/config/sr25.rviz" />
 </launch>
